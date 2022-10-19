@@ -64,14 +64,14 @@ Male riders are more inclined to use the bike sharing program to commute to and 
 
 ### Trips by Gender by Weekday
 
-![TripWeekGender](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Trips%20by%20Gender%20by%20Weekday.png)
+![TripWeekGender](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Trips%20by%20Gender.png)
 
 Thursday was the highest usage day among subscribers with the most usage occurring on Saturday for non-subscribers.
 
 
 ### Top Ending Location
 
-![TopEnding](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Top%20Ending%20Locations.png)
+![TopEnding](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Story%20for%20Top%20Ending%20Location.png)
 
 Usage was more concentrated in Midtown and business areas which would suggest that bikes are primarily used for commuting.
 
