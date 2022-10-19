@@ -1,21 +1,18 @@
 # NYC_Bike_Sharing_Analysis
 
+
+## Tableau Public Link
+
+[Link to Dashboard](https://public.tableau.com/app/profile/adio.olufemi.peter/viz/)
+
+
 ## OVERVIEW
 
-Purpose:  The purpose of this analysis is to prepare visualizations that give potential investors a look into the highly-successful NYC Citibike bike-sharing program, so that they can see for themselves that a bike-sharing program in Des Moines is a solid business proposal.  Among others, we have prepared visualizations that:
-
-(1) Show the length of time that bikes are checked out for all riders and genders. 
-(2) Show the number of bike trips for all riders and genders for each hour of each day of the week. 
-(3) Show the number of bike trips for each type of user and gender for each day of the week.
-
-![Bike TripDuration](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Citibike_Tripduration%20to%20datetime.png)
 
 # Bike Sharing Project
 Create worksheets, dashboards and stories to visualize data using Tableau.
 
 ## Overview
-
-![bike image](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/City_Bike_Preview.png)
 
 The purpose of this analysis is to provide a business proposal that will convince investors that developing a bike-sharing program in Des Moines can be a profitable venture. Throughout the process, we use data that is publicly available from the NYC CitiBike program [archives](https://s3.amazonaws.com/tripdata/index.html) and `Tableau` to create visualizations. 
 
@@ -23,9 +20,12 @@ While the data is based on activity that occurred in New York City which is very
 
 For our presentation, we decide to use data from August 2019 to build our analysis. It is assumed that there is more traffic or usage during the summer months compared to other times of the year in which weather can impact activity.
 
-## Tableau Public Link
 
-[Link to Dashboard](https://public.tableau.com/app/profile/adio.olufemi.peter/viz/)
+![bike image](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/City_Bike_Preview.png)
+
+
+![Bike TripDuration](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Citibike_Tripduration%20to%20datetime.png)
+
 
 
 ## Results
