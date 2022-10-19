@@ -2,10 +2,10 @@
 
 
 NYC Citibike Analysis
-MODULE 14 - Citibike analysis
+
 
 ## OVERVIEW
-#Purpose:  The purpose of the current analysis is to prepare visualizations that give potential investors a look into the highly-successful NYC Citibike bike-sharing program, so that they can see for themselves that a bike-sharing program in Des Moines is a solid business proposal.  Among others, we have prepared visualizations that 1) Show the length of time that bikes are checked out for all riders and genders, 2) Show the number of bike trips for all riders and genders for each hour of each day of the week, and 3) Show the number of bike trips for each type of user and gender for each day of the week.
+# Purpose:  The purpose of the current analysis is to prepare visualizations that give potential investors a look into the highly-successful NYC Citibike bike-sharing program, so that they can see for themselves that a bike-sharing program in Des Moines is a solid business proposal.  Among others, we have prepared visualizations that 1) Show the length of time that bikes are checked out for all riders and genders, 2) Show the number of bike trips for all riders and genders for each hour of each day of the week, and 3) Show the number of bike trips for each type of user and gender for each day of the week.
 
 
 # BikeSharing Project - Proposal for Des Moines
@@ -25,9 +25,10 @@ For our presentation, we decide to use data from August 2019 to build our analys
 
 [Link to Dashboard](https://public.tableau.com/app/profile/adio.olufemi.peter/viz/)
 
+
 ## Results
 
-### Total Rides, Customer Type and Gender Breakdown
+# Total Rides, Customer Type and Gender Breakdown
 
 ![totalrides](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Total%20Rides-User-Gender.png)
 
@@ -52,7 +53,7 @@ Male riders are the primary user of the bike share program making up 65% of the 
 
 ![TripsWeekday](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
-Most of the rides during the weekdays (M-F) occur during commuting hours of 8-9a and 5-7pm. It can be assumed that the bike sharing program is the preferred method for commuting to and from work. 
+Most of the rides during the weekdays (Monday-Friday) occur during commuting hours of 8-9a and 5-7pm. It can be assumed that the bike sharing program is the preferred method for commuting to and from work. 
 
 
 ### Trips by Gender (Weekday per Hour)
@@ -75,20 +76,8 @@ Thursday was the highest usage day among subscribers with the most usage occurri
 
 Usage was more concentrated in Midtown and business areas which would suggest that bikes are primarily used for commuting.
 
+
 ## Summary
 
-Based on the visualizations above for activities that occurred in New York City, we can summarize:
-
-* Stalls located in heavily concentrated business areas, such as Midtown and Downtown made up the majority of the usage. 
-* Subscribers are the primary user.
-* The duration of most trips were under 10 minutes.
-
-In summary, introducing a bike share program in Des Moines, IA may be a good business venture, as long as the program is installed in densely populated areas where mass transportation is highly used and parking is limited. However, we would need to review additional data in order to provide a strong case to support this recommendation by adding:
-
-* Create visualization that maps out usage from starting to ending location to determine the distance traveled. Where are users starting their trip from and why? Are they using the bike to complete their commute after taking the bus or the train? 
-* Add visualization to explore the activity by age group and adding demographic information to identify areas in which bikeshares would most likely be used (i.e. census data).
-
-**Additional Information**
-
-#The results of this analysis have given insight into the utilization of bicycles in the NYC Citibike bike-sharing program. We've seen the patterns of usage by time and by gender.  Utilization rates can now be predicted based on time of day and location.  Weekday usage is heavily concentrated around the morning and afternoon commute.  Weekend usage is more evenly spread through the day. I think it is very important to recommend further analysis for a few reasons:  First and foremost, the analysis has shown that the vast majority of the trips are 30 minutes or less, we should perform further analysis to compare weekend trip durations to weekday trip durations.  We should also take a further look into the patterns of usage for the bicycles that see the heaviest use, perhaps preparing maps showing all of the starting/ending routes/locations for the heaviest use bikes.  We should also prepare a visualization to determine if there are specific locations that are completely unused.
+The results of this analysis have given insight into the utilization of bicycles in the NYC Citibike bike-sharing program. We've seen the patterns of usage by time and by gender.  Utilization rates can now be predicted based on time of day and location.  Weekday usage is heavily concentrated around the morning and afternoon commute.  Weekend usage is more evenly spread through the day. I think it is very important to recommend further analysis for a few reasons:  First and foremost, the analysis has shown that the vast majority of the trips are 30 minutes or less, we should perform further analysis to compare weekend trip durations to weekday trip durations.  We should also take a further look into the patterns of usage for the bicycles that see the heaviest use, perhaps preparing maps showing all of the starting/ending routes/locations for the heaviest use bikes.  We should also prepare a visualization to determine if there are specific locations that are completely unused.
 
