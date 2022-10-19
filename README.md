@@ -8,6 +8,7 @@ Purpose:  The purpose of this analysis is to prepare visualizations that give po
 (2) Show the number of bike trips for all riders and genders for each hour of each day of the week. 
 (3) Show the number of bike trips for each type of user and gender for each day of the week.
 
+![Bike TripDuration](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Citibike_Tripduration%20to%20datetime.png)
 
 # Bike Sharing Project
 Create worksheets, dashboards and stories to visualize data using Tableau.
