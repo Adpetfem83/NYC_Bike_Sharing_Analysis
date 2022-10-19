@@ -1,6 +1,5 @@
 # NYC_Bike_Sharing_Analysis
 
-# Bikesharing_Analysis
 
 NYC Citibike Analysis
 MODULE 14 - Citibike analysis
@@ -14,7 +13,7 @@ Create worksheets, dashboards and stories to visualize data using Tableau.
 
 ## Overview
 
-![bike image](https://github.com/amylio/BikeSharing/blob/main/Images/bike-sharing-best-bike-share-programs-1068x713.jpeg)
+![bike image](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/City_Bike_Preview.png)
 
 The purpose of this analysis is to provide a business proposal that will convince investors that developing a bike-sharing program in Des Moines can be a profitable venture. Throughout the process, we use data that is publicly available from the NYC CitiBike program [archives](https://s3.amazonaws.com/tripdata/index.html) and `Tableau` to create visualizations. 
 
@@ -24,55 +23,55 @@ For our presentation, we decide to use data from August 2019 to build our analys
 
 ## Tableau Public Link
 
-[Link to Dashboard](https://public.tableau.com/profile/amy.lio#!/vizhome/NYC_CitiBike_Challenge_Submission/BikeShareAnalysis-Deliverable3)
+[Link to Dashboard](https://public.tableau.com/app/profile/adio.olufemi.peter/viz/)
 
 ## Results
 
 ### Total Rides, Customer Type and Gender Breakdown
 
-![totalrides](https://github.com/amylio/BikeSharing/blob/main/Images/TotalRidesUserGender2.png)
+![totalrides](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Total%20Rides-User-Gender.png)
 
 In NYC, there were over 2.3M trips that occurred during the month of August with 81% of the riders in the **"subscriber"** category and that **Men** were the primary user of this program (65%).
 
 
 ### Checkout Times for Users
 
-![CheckoutTimes](https://github.com/amylio/BikeSharing/blob/main/Images/CheckoutTimes%20(Del%202%2C%20part%201).png)
+![CheckoutTimes](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Checkout%20Times%20for%20Users.png)
 
 Almost all of the trips (99%) were under 60 minutes with 49% under 10 minutes (1.1M vs. 2.3M).
 
 
 ### Checkout Times by Gender
 
-![checkoutgender](https://github.com/amylio/BikeSharing/blob/main/Images/CheckoutTimesByGender%20(Del%202%2C%20part%202).png)
+![checkoutgender](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Checkout%20Times%20by%20Gender.png)
 
 Male riders are the primary user of the bike share program making up 65% of the population, with the remaining being 25% female and 10% unknown.
 
 
 ### Trips by Weekday for Each Hour
 
-![TripsWeekday](https://github.com/amylio/BikeSharing/blob/main/Images/TripsWeekday%20(Del%202%2C%20part%203).png)
+![TripsWeekday](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
 Most of the rides during the weekdays (M-F) occur during commuting hours of 8-9a and 5-7pm. It can be assumed that the bike sharing program is the preferred method for commuting to and from work. 
 
 
 ### Trips by Gender (Weekday per Hour)
 
-![TripGender](https://github.com/amylio/BikeSharing/blob/main/Images/TripsWeekdayGender%20(Del%202,%20part%204).png?raw=true)
+![TripGender](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Trips%20by%20Gender%20by%20Weekday.png)
 
 Male riders are more inclined to use the bike sharing program to commute to and from work, as well as during the weekend.
 
 
 ### Trips by Gender by Weekday
 
-![TripWeekGender](https://github.com/amylio/BikeSharing/blob/main/Images/TripsbyGender%20(Del%202%2C%20part%205).png)
+![TripWeekGender](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Trips%20by%20Gender%20by%20Weekday.png)
 
 Thursday was the highest usage day among subscribers with the most usage occurring on Saturday for non-subscribers.
 
 
 ### Top Ending Location
 
-![TopEnding](https://github.com/amylio/BikeSharing/blob/main/Images/TopEndingLocation.png)
+![TopEnding](https://github.com/Adpetfem83/NYC_Bike_Sharing_Analysis/blob/main/Images/Top%20Ending%20Locations.png)
 
 Usage was more concentrated in Midtown and business areas which would suggest that bikes are primarily used for commuting.
 
