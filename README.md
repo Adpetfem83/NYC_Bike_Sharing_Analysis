@@ -1,9 +1,5 @@
 # NYC_Bike_Sharing_Analysis
 
-
-NYC Citibike Analysis
-
-
 ## OVERVIEW
 
 Purpose:  The purpose of this analysis is to prepare visualizations that give potential investors a look into the highly-successful NYC Citibike bike-sharing program, so that they can see for themselves that a bike-sharing program in Des Moines is a solid business proposal.  Among others, we have prepared visualizations that:
