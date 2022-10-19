@@ -9,7 +9,7 @@ Purpose:  The purpose of this analysis is to prepare visualizations that give po
 (3) Show the number of bike trips for each type of user and gender for each day of the week.
 
 
-# BikeSharing Project - Proposal for Des Moines
+# Bike Sharing Project - Proposal for Des Moines
 Create worksheets, dashboards and stories to visualize data using Tableau.
 
 ## Overview
